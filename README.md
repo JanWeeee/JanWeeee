@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Janhavi</h1>
-<h3 align="center">A passionate data enthusiast and lifelong learner exploring the vast realms of data science and machine learning. My journey involves diving deep into the intricacies of neural networks, unraveling the mysteries of patterns within data, and leveraging the power of AI to solve real-world problems.</h3>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janweeee&" alt="janweeee" /></p>
