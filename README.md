@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Janhavi</h1>/
+<h1 align="center">Hi 👋, I'm Janhavi</h1>
 <h3 align="center">A passionate data enthusiast and lifelong learner exploring the vast realms of data science and machine learning. My journey involves diving deep into the intricacies of neural networks, unraveling the mysteries of patterns within data, and leveraging the power of AI to solve real-world problems.</h3>
-
-<div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPriya-shan&psig=AOvVaw2av1aZNAAAMoQJPC1CePbS&ust=1701122367812000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj7_uXU4oIDFQAAAAAdAAAAABAE" alt="GIF" width="300" height="300"/>
-</div>
 
 - 🔭 I’m currently working on **Automated image captioning for visually impaired people**
 
