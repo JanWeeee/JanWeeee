@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Janhavi</h1>
 <h3 align="center">A passionate data enthusiast and lifelong learner exploring the vast realms of data science and machine learning. My journey involves diving deep into the intricacies of neural networks, unraveling the mysteries of patterns within data, and leveraging the power of AI to solve real-world problems.</h3>
 
+<div align="center">
+  <img src="[your_gif_url_here.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0EqegZOfVwDTrDWXS0kHlq&ust=1701122187955000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC29ZHU4oIDFQAAAAAdAAAAABAE)" alt="GIF" width="300" height="300"/>
+</div>
+
 - 🔭 I’m currently working on **Automated image captioning for visually impaired people**
 
 - 🌱 I’m currently learning **Flask, Deep learning**
