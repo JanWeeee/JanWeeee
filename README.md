@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janweeee&" alt="janweeee" /></p>
 </div>
 
-- 🔭 I’m currently working on **Automated image captioning for visually impaired people**
+- 🔭 I’m currently working on **API-Driven-Test-Automation-Framework**
 
 - 🌱 I’m currently learning how to combine and use multiple technologies like **CI/CD, Software Automation, LLMs, RAG, GenAI**
 
